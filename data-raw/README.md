@@ -1,4 +1,4 @@
-Davi de Castro Gomes
+
 # Contents of data folder
 
 Should contain the *raw* (unedited) data used specifically for the
