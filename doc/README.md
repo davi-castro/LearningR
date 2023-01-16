@@ -1,3 +1,4 @@
+Davi de Castro Gomes
 # Contents of doc folder
 
 This folder should contain the main scientific product of the project
