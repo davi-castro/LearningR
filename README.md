@@ -1,3 +1,4 @@
+Davi de Castro Gomes
 TODO: Add more to the title of your project here
 
 # LearningR:
