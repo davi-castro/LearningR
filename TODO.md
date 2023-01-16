@@ -1,3 +1,4 @@
+Davi de Castro Gomes
 Some TODO items after creating this project. Can delete this file after completing them.
 
 - TODO: Fill in project details in README.md
