@@ -4,6 +4,28 @@ author: "Davi de Castro Gomes"
 format: html
 ---
 
+# Intro
+
+I *like* to **drink** some beers
+
+# Methods and Results
+
+Hello 
+
+## Analysis
+
+Hi
+
+#Discussion
+
+```{r}
+2 + 2
+```
+
+
+
+
+
 ```{r setup}
 #| include: false
 library(tidyverse)
@@ -63,3 +85,11 @@ nhanes_small %>%
   knitr::kable(caption = "Mean values of Age and BMI for each education and diabetes status.")
 ```
 ```
+
+## Inserting Images
+
+![Cute baby cat](Images/cat.jpg){#fig-cat}
+
+Cute kitten in @fig-cat
+
+ r3::open_feedback_survey_intro()
