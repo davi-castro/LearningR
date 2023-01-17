@@ -1,6 +1,7 @@
 Davi de Castro Gomes text 
 test push
 test pull  from Github
+ticktock
 TODO: Add more to the title of your project here
 
 # LearningR:
