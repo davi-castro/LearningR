@@ -1,5 +1,36 @@
 # Here's an example of a conflict.
 10
+library(tidyverse)
+library(NHANES)
+
+
+# Looking at data ---------------------------------------------------------
+
+glimpse(NHANES)
+
+select(NHANES, Age, Weight, BMI)
+
+select(NHANES, -HeadCirc)
+
+select(NHANES, starts_with("BP"))
+select(NHANES, ends_with("Day"))
+select(NHANES, contains("Age"))
+
+nhanes_small <- select(
+  NHANES,
+  Age,
+  Gender,
+  BMI,
+  Diabetes,
+  PhysActive,
+  BPSysAve,
+  BPDiaAve,
+  Education
+)
+nhanes_small
+
+
+
 
 # R basics ----------------------------------------------------------------
 
